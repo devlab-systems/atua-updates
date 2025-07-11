@@ -4,13 +4,13 @@
         <title>atua</title>
         <item>
             <title>1.0.12</title>
-            <pubDate>Fri, 11 Jul 2025 14:10:02 +0000</pubDate>
+            <pubDate>Fri, 11 Jul 2025 14:54:33 +0000</pubDate>
             <link>https://github.com/devlab-systems/atua</link>
-            <sparkle:version>20</sparkle:version>
+            <sparkle:version>23</sparkle:version>
             <sparkle:shortVersionString>1.0.12</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://devlab-systems.github.io/atua-updates/Atua-v1.0.20.html</sparkle:releaseNotesLink>
-            <enclosure url="https://devlab-systems.github.io/atua-updates/releases/Atua-v1.0.20.dmg" length="4360487" type="application/octet-stream" sparkle:edSignature="7JYU48GAqWjSQ0in9ssIUyfe33ubciFKEmkELZ994wODdnXog8zfsEGe48ey6ZMps10OamFgEoO5aQ4lae51Ag=="/>
+            <sparkle:releaseNotesLink>https://devlab-systems.github.io/atua-updates/Atua-v1.0.23.html</sparkle:releaseNotesLink>
+            <enclosure url="https://devlab-systems.github.io/atua-updates/releases/Atua-v1.0.23.dmg" length="4361914" type="application/octet-stream" sparkle:edSignature="Bhtew5cvSg6xgnKM0KlhR7BEAl0YboUNaJZy0UNeeCn4G79qkfqw5/QSkNkseNmVFRY9Je3orIxPdJYbLf+/Dg=="/>
         </item>
     </channel>
 </rss>
